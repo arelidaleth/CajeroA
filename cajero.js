@@ -1,8 +1,8 @@
 var imagenes = [];
-imagenes["500"] = "img/500.jpg";
-imagenes["200"] = "img/200.jpg"
-imagenes["100"] = "img/100.jpg"
-imagenes["50"] = "img/50.jpg"
+imagenes["500"] = "500.jpg";
+imagenes["200"] = "200.jpg"
+imagenes["100"] = "100.jpg"
+imagenes["50"] = "50.jpg"
 
 class Billete
 {
